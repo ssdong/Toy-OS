@@ -3,6 +3,8 @@
 #include <synchprobs.h>
 #include <synch.h>
 
+/* Cats and Mice synchronization problem  */
+
 /* 
  * This simple default synchronization mechanism allows only creature at a time to
  * eat.   The globalCatMouseSem is used as a a lock.   We use a semaphore
