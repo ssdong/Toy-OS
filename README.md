@@ -16,8 +16,7 @@ A toy operating system built by OS one-six-one
 ![uw-testbin case](https://github.com/SSDong/Toy-OS/raw/master/snapshots/romemwrite.PNG)
 
 #### physical memory management tests
-* Test if kernel can reclaim and reuse of physical memory 
-  so that it can run programs sequentially forever without crashing. 
+* Test if kernel can reclaim and reuse of physical memory
 ![uw-testbin case](https://github.com/SSDong/Toy-OS/raw/master/snapshots/physical memory.PNG)
 ![uw-testbin case](https://github.com/SSDong/Toy-OS/raw/master/snapshots/sorts.PNG)
 
