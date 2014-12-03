@@ -20,7 +20,7 @@
 /*********************************/
 
   /* this implementation of sys__exit does not do anything with the exit code */
-  /* this needs to be fixed to get exit() and waitpid() working properly */
+  /* this needs to be fixed to get exit() and waitpid() working properly. */
 
 
 void sys__exit(int exitcode) {
