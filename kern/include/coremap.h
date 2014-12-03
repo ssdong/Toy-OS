@@ -10,4 +10,4 @@ struct coremap_entry
 };
 
 
-#endif /*_COREMAP_H_*/
+#endif  /*_COREMAP_H_*/
