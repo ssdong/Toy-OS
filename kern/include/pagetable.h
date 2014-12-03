@@ -3,7 +3,7 @@
 
 struct pagetable_entry
 { 
-	// Corresponding physical address
+    // Corresponding physical address
     paddr_t paddr;
 };
 
